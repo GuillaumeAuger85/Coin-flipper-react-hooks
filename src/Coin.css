@@ -1,0 +1,49 @@
+.Coin {
+    position: absolute;
+    transform-style: preserve-3d;
+    bottom: 10rem;
+    animation: upDown 3s linear infinite;
+}
+
+@keyframes upDown {
+    0% {
+        bottom: 10rem
+    }
+
+    50% {
+        bottom: 15rem
+    }
+}
+
+.Coin-faceA {
+    position: absolute;
+    transform: translateZ(10px);
+}
+
+.Coin-animation {
+    animation: rotate 2s linear, lift 2s linear;
+}
+
+@keyframes rotate {
+    0%, 10%, 20%, 40%, 65%, 100% {
+        transform: rotateX(0deg);
+    }
+
+    5%, 15%, 30%, 50%, 80% {
+        transform: rotateX(360deg);
+    }
+}
+
+@keyframes lift {
+    0% {
+        margin-bottom: 2rem
+    }
+
+    30% {
+        margin-bottom: 27rem
+    }
+
+    100% {
+        margin-bottom: 2rem
+    }
+}
