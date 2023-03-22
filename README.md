@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Coin-flipper-react-hooks
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**REACT APP**<br>
+**Coin flipper**
+
+## Try it [here](https://GuillaumeAuger85.github.io/Coin-flipper-react-hooks)!
+
+**Screenshot:**
+
+![coinFlipper](https://user-images.githubusercontent.com/49698792/226985368-9125a891-84d0-46ac-8a1f-60d1ac096769.PNG)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
