@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Coin-flipper-react-hooks/static/css/main.cf541fe5.css",
+    "main.js": "/Coin-flipper-react-hooks/static/js/main.597c729e.js",
+    "static/js/787.2e170ee4.chunk.js": "/Coin-flipper-react-hooks/static/js/787.2e170ee4.chunk.js",
+    "static/media/Head.png": "/Coin-flipper-react-hooks/static/media/Head.d33d85546325358e065f.png",
+    "static/media/Tail.png": "/Coin-flipper-react-hooks/static/media/Tail.36eb68574f35824c76b1.png",
+    "static/media/SuperMario256.ttf": "/Coin-flipper-react-hooks/static/media/SuperMario256.727519250ea444b6c5ce.ttf",
+    "static/media/SuperMarioBrosWii.otf": "/Coin-flipper-react-hooks/static/media/SuperMarioBrosWii.3c7d582a73b3c453d88c.otf",
+    "index.html": "/Coin-flipper-react-hooks/index.html",
+    "main.cf541fe5.css.map": "/Coin-flipper-react-hooks/static/css/main.cf541fe5.css.map",
+    "main.597c729e.js.map": "/Coin-flipper-react-hooks/static/js/main.597c729e.js.map",
+    "787.2e170ee4.chunk.js.map": "/Coin-flipper-react-hooks/static/js/787.2e170ee4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf541fe5.css",
+    "static/js/main.597c729e.js"
+  ]
+}
